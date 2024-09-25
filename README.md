@@ -11,3 +11,5 @@ For eg.
     python src/main.py examples/Data_LayoutPLFS_2023-24.xlsx HHRV.TXT hhrv.csv
     
 The script uses the input filename to select the field descriptions from the Excel layout file provided by NSSO, so the input filename should be unchanged.
+
+You have to install the openpyxl package.
