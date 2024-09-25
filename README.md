@@ -1,5 +1,7 @@
 Convert text microdata files from India's NSSO to CSV. Python script.
 
+The script can parse the data layout Excel files provided by NSSO to get column names and widths.
+
 I've only tested it for two rounds of PLFS. Your mileage may vary.
 
     Usage: python src/main.py [Data layout Excel file] [Input TXT file] [Output CSV file]
